@@ -10,16 +10,17 @@ The website is built using the multi-purpose blog theme that is available in wor
 ![post](https://user-images.githubusercontent.com/88197915/149033662-b83fd8e5-5807-4229-8b9c-8a6ae6a9aebf.JPG)
 
 
-2. Add the following lines into page.php file in the same directory.
+2. Add the following lines into single-post.php file in the same directory.
 
 
-![page](https://user-images.githubusercontent.com/88197915/149033791-aa6b52fd-00b0-4210-945b-bce602e3bad9.JPG)
+![require post](https://user-images.githubusercontent.com/88197915/149034527-2e296bb7-2e30-47cf-b063-e573d41c3225.JPG)
+
 
 
 3. Add page-extended.php file to the directory shown below.
 
 
-![post](https://user-images.githubusercontent.com/88197915/149030501-38238add-adc6-403e-b68f-c42bff55840c.JPG)
+![page](https://user-images.githubusercontent.com/88197915/149034589-18d52012-95fc-4dc0-ac03-df906a976e33.JPG)
 
 
 4. Add the following lines into page.php file in the same directory.
