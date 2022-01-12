@@ -26,7 +26,8 @@ The website is built using the multi-purpose blog theme that is available in wor
 1.4 Add page-extended.php file to the directory shown below.
 
 
-![page](https://user-images.githubusercontent.com/88197915/149034589-18d52012-95fc-4dc0-ac03-df906a976e33.JPG)
+![page](https://user-images.githubusercontent.com/88197915/149206989-8b1c07fb-12ee-4f9f-a57c-3f3ff6f5bca5.JPG)
+
 
 
 1.5. Add the following lines into page.php file in the same directory.
