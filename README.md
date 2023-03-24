@@ -46,7 +46,7 @@ The website is built using the multi-purpose blog theme that is available in wor
 ![choose](https://user-images.githubusercontent.com/88197915/149032070-edeb4f29-4d2e-4895-8d26-1af37eec2021.JPG)
 
 ## Usage
-Browse to the website and enjoy.
+Browse to the website and enjoy. https://ogodisengsehoole.wordpress.com
 
 **Project maintained and designed by : Ogodiseng Sehoole**
  
